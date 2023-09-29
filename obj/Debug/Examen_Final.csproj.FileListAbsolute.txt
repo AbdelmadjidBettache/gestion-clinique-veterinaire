@@ -1,0 +1,15 @@
+C:\Users\Bmadj\source\repos\C #\Examen_Final\bin\Debug\Examen_Final.exe.config
+C:\Users\Bmadj\source\repos\C #\Examen_Final\bin\Debug\Examen_Final.exe
+C:\Users\Bmadj\source\repos\C #\Examen_Final\bin\Debug\Examen_Final.pdb
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.csproj.AssemblyReference.cache
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.Afficher_Chat.resources
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.Afficher_Chien.resources
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.Ajouter_Chat.resources
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.Ajouter_Chien.resources
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.Form1.resources
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.Properties.Resources.resources
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.Supprimer_Chien.resources
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.csproj.GenerateResource.cache
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.exe
+C:\Users\Bmadj\source\repos\C #\Examen_Final\obj\Debug\Examen_Final.pdb
